@@ -1,2 +1,2 @@
 # slimapp
-Simple Application Using Slim Framework
+Simple Application Using Slim 3 Framework
